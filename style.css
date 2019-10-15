@@ -1,0 +1,24 @@
+header{
+    color: white;
+    font-family: "Myriad Pro", serif;
+    background-color: #313131;
+    height: 50px;
+    width: auto;
+}
+
+li{
+    text-align: center;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 18px;
+}
+
+ul{
+    vertical-align: center;
+    margin-left: 170px;
+}
+
+li:hover{
+    color: darkgray;
+    transition: 1s;
+}
